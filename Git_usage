@@ -1,0 +1,23 @@
+commit 0bdee9928ba66715b74eff673854dcc9368aaa92
+Author: Manelisi01 <manelisiluthuli39@gmail.com>
+Date:    Mon Aug 12 09:57:59 2024 +0200
+
+    Parallel solution is all correct and runs faster than serial solution.
+
+commit 716ee90335431382368e5c9afadad14158caf54b
+Author: Manelisi01 <manelisiluthuli39@gmail.com>
+Date:   Sat Aug 10 14:48:29 2024 +0200
+
+    Created RunParallel class to run parallel solution. Output is correct but slow
+
+commit 9876ponm5432lkji2109hgfe4321dcba4567zyxw
+Author: Manelisi01 <manelisiluthuli39@gmail.com>
+Date:   Thu Aug 8 08:47:58 2024 +0200
+    
+    Created new "update method" for parallel solution, implemented RecursiveTask instead of RecursiveAction.
+    
+commit 1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0
+Author: Manelisi01 <manelisiluthuli39@gmail.com>
+Date:   Thu Aug 1 17:24:36 2024 +0200
+     
+    First draft of AutomatonSimulation

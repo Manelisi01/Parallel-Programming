@@ -1,0 +1,110 @@
+Running simulation with input: 16_by_16_all_4.csv and output: output16_4.png
+java -classpath bin AutomatonSimulation 16_by_16_all_4.csv output16_4.png
+Rows: 16, Columns: 16
+Simulation complete, writing image...
+Number of steps to stable state: 67 
+Time: 1 ms
+Running simulation with input: 16_by_16_all_4.csv and output: output16_4.png
+java -classpath bin AutomatonSimulation 16_by_16_all_4.csv output16_4.png
+Rows: 16, Columns: 16
+Simulation complete, writing image...
+Number of steps to stable state: 67 
+Time: 2 ms
+Running simulation with input: 16_by_16_one_100.csv and output: output16_1.png
+java -classpath bin AutomatonSimulation 16_by_16_one_100.csv output16_1.png
+Rows: 16, Columns: 16
+Simulation complete, writing image...
+Number of steps to stable state: 19 
+Time: 0 ms
+Running simulation with input: 16_by_16_one_100.csv and output: output16_1.png
+java -classpath bin AutomatonSimulation 16_by_16_one_100.csv output16_1.png
+Rows: 16, Columns: 16
+Simulation complete, writing image...
+Number of steps to stable state: 19 
+Time: 0 ms
+Running simulation with input: 65_by_65_all_4.csv and output: output65_4.png
+java -classpath bin AutomatonSimulation 65_by_65_all_4.csv output65_4.png
+Rows: 65, Columns: 65
+Simulation complete, writing image...
+Number of steps to stable state: 1156 
+Time: 35 ms
+Running simulation with input: 65_by_65_all_4.csv and output: output65_4.png
+java -classpath bin AutomatonSimulation 65_by_65_all_4.csv output65_4.png
+Rows: 65, Columns: 65
+Simulation complete, writing image...
+Number of steps to stable state: 1156 
+Time: 36 ms
+Running simulation with input: 150_by_150_All_8.csv and output: output150_8.png
+java -classpath bin AutomatonSimulation 150_by_150_All_8.csv output150_8.png
+Rows: 150, Columns: 150
+Simulation complete, writing image...
+Number of steps to stable state: 10881 
+Time: 627 ms
+Running simulation with input: 150_by_150_All_8.csv and output: output150_8.png
+java -classpath bin AutomatonSimulation 150_by_150_All_8.csv output150_8.png
+Rows: 150, Columns: 150
+Simulation complete, writing image...
+Number of steps to stable state: 10881 
+Time: 673 ms
+Running simulation with input: 370_by_370_All_8.csv and output: output370_8.png
+java -classpath bin AutomatonSimulation 370_by_370_All_8.csv output370_8.png
+Rows: 370, Columns: 370
+Simulation complete, writing image...
+Number of steps to stable state: 64524 
+Time: 28330 ms
+Running simulation with input: 370_by_370_All_8.csv and output: output370_8.png
+java -classpath bin AutomatonSimulation 370_by_370_All_8.csv output370_8.png
+Rows: 370, Columns: 370
+Simulation complete, writing image...
+Number of steps to stable state: 64524 
+Time: 28293 ms
+Running simulation with input: 517_by_517_centre_534578.csv and output: output517.png
+java -classpath bin AutomatonSimulation 517_by_517_centre_534578.csv output517.png
+Rows: 517, Columns: 517
+Simulation complete, writing image...
+Number of steps to stable state: 98904 
+Time: 77110 ms
+Running simulation with input: 517_by_517_centre_534578.csv and output: output517.png
+java -classpath bin AutomatonSimulation 517_by_517_centre_534578.csv output517.png
+Rows: 517, Columns: 517
+Simulation complete, writing image...
+Number of steps to stable state: 98904 
+Time: 77101 ms
+Running simulation with input: 750_by_750_All_8.csv and output: output750.png
+java -classpath bin AutomatonSimulation 750_by_750_All_8.csv output750.png
+Rows: 750, Columns: 750
+Simulation complete, writing image...
+Number of steps to stable state: 266849 
+Time: 481324 ms
+Running simulation with input: 750_by_750_All_8.csv and output: output750.png
+java -classpath bin AutomatonSimulation 750_by_750_All_8.csv output750.png
+Rows: 750, Columns: 750
+Simulation complete, writing image...
+Number of steps to stable state: 266849 
+Time: 480864 ms
+Running simulation with input: 1001_by_1001_all_8.csv and output: output1001.png
+java -classpath bin AutomatonSimulation 1001_by_1001_all_8.csv output1001.png
+Rows: 1001, Columns: 1001
+Simulation complete, writing image...
+Number of steps to stable state: 471192 
+Time: 1548457 ms
+Running simulation with input: 1001_by_1001_all_8.csv and output: output1001.png
+java -classpath bin AutomatonSimulation 1001_by_1001_all_8.csv output1001.png
+Rows: 1001, Columns: 1001
+Simulation complete, writing image...
+Number of steps to stable state: 471192 
+Time: 1548144 ms
+Running simulation with input: 1250_by_1250_All_8.csv and output: output1250.png
+java -classpath bin AutomatonSimulation 1250_by_1250_All_8.csv output1250.png
+Rows: 1250, Columns: 1250
+Simulation complete, writing image...
+Number of steps to stable state: 733638 
+Time: 3872025 ms
+Running simulation with input: 1250_by_1250_All_8.csv and output: output1250.png
+java -classpath bin AutomatonSimulation 1250_by_1250_All_8.csv output1250.png
+Rows: 1250, Columns: 1250
+Simulation complete, writing image...
+Number of steps to stable state: 733638 
+Time: 3873343 ms
+All simulations completed.
+
